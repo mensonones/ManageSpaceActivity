@@ -1,0 +1,34 @@
+# Android Studio
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+# Não ignorar o wrapper do Gradle
+!gradle/wrapper/
+
+# Arquivos de configuração locais
+/local.properties
+
+# Pastas de build
+/build/
+# Pastas de captura
+/captures/
+/externalNativeBuild/
+/.cxx/
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+
+# Outros arquivos e pastas que não precisam ser versionados
+*.log
+*.tmp
+
+# Arquivos específicos da IDE
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
